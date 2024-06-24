@@ -1,8 +1,6 @@
--
+Gain unparalleled insights into your AdMob earnings and payments with our intuitive mobile app! AdDash connects seamlessly to your Google account, providing you with detailed reports on earnings per app and crucial payment information.
 
-## Gain unparalleled insights into your AdMob earnings and payments with our intuitive mobile app! AdDash connects seamlessly to your Google account, providing you with detailed reports on earnings per app and crucial payment information.
-
-### Key Features
+## Key Features
 
 #### Earnings Summary
 Stay updated with your earnings report directly from your AdMob account.
@@ -20,5 +18,5 @@ Access your AdMob insights anytime, anywhere, right from your smartphone.
 
 Whether you're a developer, publisher, or entrepreneur, AdDash empowers you to maximize your app monetization strategy with precision and ease.
 
-About [jekyll](/about)
+[Privacy policy](/privacy_policy)
 
