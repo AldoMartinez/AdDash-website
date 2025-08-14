@@ -35,3 +35,7 @@ No more manual checks or complicated reports. AdDash simplifies revenue monitori
 <img width="290" height="1596" alt="addash-6 5-3-sc-en" src="https://github.com/user-attachments/assets/ec2576dd-6be4-463e-a694-673ec6bdc1da" />
 <img width="290" height="1596" alt="addash-6 5-2-sc-en" src="https://github.com/user-attachments/assets/a36caf0a-bea3-4238-ab59-7d7dd953b6aa" />
 <img width="290" height="1596" alt="addash-6 5-1-sc-en" src="https://github.com/user-attachments/assets/e4fb6aea-eaba-4922-8976-e93b438fddcb" />
+
+## Installation
+AdDash is available on the **App Store**:
+[Download here](https://apps.apple.com/us/app/addash-admob-tracker/id6504701043)
